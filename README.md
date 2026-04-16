@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! Soy Jorge Silva 👨‍🚀🚀💻
 
-<!--
-**GeorgeST-Lab-200/GeorgeST-Lab-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GeorgeST-Lab-200/GeorgeST-Lab-200/main/banner.png" width="100%" alt="GeorgeST-Lab-200 Banner">
+</p>
 
-Here are some ideas to get you started:
+> **Full Stack Developer** apasionado por la automatización, la ciberseguridad, la programacion y el ecosistema Linux. Construyendo soluciones eficientes, un script a la vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+
+- 🏗️ Actualmente trabajando como **Auxiliar de Prevención y Freelancer**, transicionando al mundo de FullStack Developer.
+- 🐍 Especialista en **Python** para automatización de datos (XML a Excel).
+- 🐧 Usuario de **Arch Linux**, **Linux Mint** y **Kali Linux**.
+- 🎵 Productor de Tech House y amante de la poesía/rap.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Lenguajes:** Python, JavaScript, Bash Scripting, HTML5, CSS3, SQL.
+- **Frameworks:** React, Node.js, FastAPI, Django.
+- **Herramientas:** Git, Docker, Hyprland.
+
+---
+
+### 📈 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeST-Lab-200&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
