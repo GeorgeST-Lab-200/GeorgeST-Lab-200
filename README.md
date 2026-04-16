@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jorge Silva 👨‍🚀🚀💻
+<h1 align="center">¡Hola! Soy Jorge Silva 👨‍🚀🚀💻</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GeorgeST-Lab-200/GeorgeST-Lab-200/main/banner_gato.png" width="450px" height="225px" alt="GeorgeST-Lab-200 Banner">
