@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jorge Silva 👨‍🚀🚀💻
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeorgeST-Lab-200/GeorgeST-Lab-200/main/banner.png" width="450px" height="225px" alt="GeorgeST-Lab-200 Banner">
+  <img src="https://raw.githubusercontent.com/GeorgeST-Lab-200/GeorgeST-Lab-200/main/banner_gato.png" width="450px" height="225px" alt="GeorgeST-Lab-200 Banner">
 </p>
 
 > **Full Stack Developer** apasionado por la automatización, la ciberseguridad, la programacion y el ecosistema Linux. Construyendo soluciones eficientes, un script a la vez.
