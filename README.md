@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre mí
 
-- 🏗️ Actualmente trabajando como **Auxiliar de Prevención y Freelancer**, transicionando al mundo de FullStack Developer.
+- 🏗️ Actualmente trabajando como **Auxiliar de Prevención y Freelancer**, incursionando al mundo de FullStack Developer.
 - 🐍 Especialista en **Python** para automatización de datos (XML a Excel).
 - 🐧 Usuario de **Arch Linux**, **Linux Mint** y **Kali Linux**.
 - 🎵 Productor de Tech House y amante de la poesía/rap.
